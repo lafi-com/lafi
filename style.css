@@ -3,6 +3,8 @@ h1{
     text-align: center;
     font-size: 60px;
     font-family:Verdana, sans-serif;
+    color: #eeeeee;
+    text-shadow: 3px 5px 5px #656B79; 
 }
 body {
     background-image: url(img/bg.jpeg);
@@ -20,6 +22,5 @@ a{
     opacity: 0.6;
 }
 .jieshao{
-    font-style: oblique;
     text-align: center;
 }
